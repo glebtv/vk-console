@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 $:.push File.expand_path('../lib', __FILE__)
-require  'vk-console'
+require  'vk-console/version'
 
 Gem::Specification.new do |gem|
   gem.name = "vk-console"
