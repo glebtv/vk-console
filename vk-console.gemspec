@@ -5,7 +5,7 @@ require  'vk-console/version'
 
 Gem::Specification.new do |gem|
   gem.name = "vk-console"
-  gem.version = VK::Console::VERSION
+  gem.version = VK::CONSOLE_VERSION
   gem.authors = ["Andrew Zinenko"]
   gem.email = "zinenkoan@gmail.com"
   gem.summary = "Ruby console for vk.com API"
