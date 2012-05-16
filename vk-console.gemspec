@@ -16,8 +16,8 @@ Gem::Specification.new do |gem|
     
   gem.extra_rdoc_files = ["LICENSE.txt", "README.md" ]
       
-  gem.add_runtime_dependency 'vk-ruby',   '~> 0.7.4'
-  gem.add_runtime_dependency 'mechanize', '~> 2.1.1'
+  gem.add_runtime_dependency 'vk-ruby',   '~> 0.8.2'
+  gem.add_runtime_dependency 'mechanize', '~> 2.5.1'
 
   gem.require_paths = ['lib']
   gem.required_rubygems_version = Gem::Requirement.new('>= 1.3.6')
